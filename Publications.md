@@ -1,7 +1,7 @@
 ---
 bg: "owl.jpg"
 layout: page
-title: "Publication"
+title: "Publications"
 crawlertitle: "Why and how this blog was created"
 permalink: /about/
 summary: "About this blog"
